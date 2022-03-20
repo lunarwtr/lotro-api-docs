@@ -9,6 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "canvas": "^2.9.1"
+    "canvas": "^2.9.1",
+    "color-functions": "^3.0.1"
   }
 }
